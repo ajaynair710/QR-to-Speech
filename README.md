@@ -1,1 +1,1 @@
-# qr-to-text
+# QR to Speech Android Application
